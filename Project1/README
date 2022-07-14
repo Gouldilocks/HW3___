@@ -1,0 +1,10 @@
+# Running the program
+* Run these two commands to run the program:
+
+```
+javac Client.java
+```
+
+```
+java Client
+```
